@@ -36,7 +36,6 @@ def main():
                     # Если положение черепахи сходится с желаемым, то пропускаем её
                     n -= 1
 
-            # Manually sort the to_swap list based on the second element of each pair
             # Проходимся по вторым элементам списка to_swap (т. е. по желаемым позициям тех черепах,
             # которых, как было определено, нужно двигать)
             for i in range(len(to_swap)):
