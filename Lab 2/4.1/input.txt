@@ -1,4 +1,4 @@
-2
+6
 3
 Yertle
 Duke of Earl
@@ -25,3 +25,29 @@ Michael Eisner
 Mr. Rogers
 Ford Perfect
 Mack
+3
+Yertle
+Duke of Earl
+Sir Lancelot
+Yertle
+Duke of Earl
+Sir Lancelot
+2
+Yertle
+Sir Lancelot
+Sir Lancelot
+Yertle
+1
+Yertle
+Yertle
+5
+Yertle
+Duke of Earl
+Sir Lancelot
+Ford Perfect
+Mack
+Mack
+Ford Perfect
+Sir Lancelot
+Duke of Earl
+Yertle
